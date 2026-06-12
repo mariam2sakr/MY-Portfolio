@@ -20,3 +20,9 @@
     gap: 10px;
   }
 }
+
+@media (max-width: 480px) {
+  .skills__grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

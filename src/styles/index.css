@@ -132,6 +132,8 @@ html {
   scroll-behavior: smooth;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  width: 100%;
 }
 
 body {
@@ -141,6 +143,7 @@ body {
   color: var(--text-secondary);
   background: var(--bg-primary);
   overflow-x: hidden;
+  width: 100%;
   transition: background var(--transition-base), color var(--transition-base);
 }
 
@@ -148,6 +151,8 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  overflow-x: hidden;
+  width: 100%;
 }
 
 /* ---- Typography ---- */
