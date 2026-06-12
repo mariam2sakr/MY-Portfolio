@@ -30,8 +30,8 @@ export default function About() {
               <div className="about__image-accent" />
             </div>
             <div className="about__experience-badge">
-              <span className="about__experience-number">+N</span>
-              <span className="about__experience-text">Monthes of<br/>Experience</span>
+              <span className="about__experience-number">+1</span>
+              <span className="about__experience-text">Year of<br/>Experience</span>
             </div>
           </ScrollReveal>
 
