@@ -1,0 +1,5 @@
+/* App-level layout — minimal, sections handle their own styles */
+
+main {
+  flex: 1;
+}
